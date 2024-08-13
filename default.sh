@@ -23,6 +23,7 @@ NODES=(
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/storyicon/comfyui_segment_anything"
     "https://github.com/neverbiasu/ComfyUI-SAM2"
+    "https://github.com/tooldigital/ComfyUI-Yolo-Cropper"
 )
 
 CHECKPOINT_MODELS=(
