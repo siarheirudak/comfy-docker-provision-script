@@ -15,7 +15,7 @@ APT_PACKAGES=(
 
 PIP_PACKAGES=(
     "insightface"
-    #"package-2"
+    "ultralytics"
 )
 
 NODES=(
