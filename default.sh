@@ -9,7 +9,7 @@
 #DEFAULT_WORKFLOW="https://..."
 
 APT_PACKAGES=(
-#    "package-1"
+    "mc"
     #"package-2"
 )
 
