@@ -20,19 +20,19 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/ltdrdata/ComfyUI-Manager"
-    "https://github.com/cubiq/ComfyUI_essentials"
-    "https://github.com/storyicon/comfyui_segment_anything"
-    "https://github.com/neverbiasu/ComfyUI-SAM2"
-    "https://github.com/tooldigital/ComfyUI-Yolo-Cropper"
-    "https://github.com/jags111/efficiency-nodes-comfyui"
-    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
-    "https://github.com/kijai/ComfyUI-IC-Light"
-    "https://github.com/audioscavenger/save-image-extended-comfyui"
-    "https://github.com/shadowcz007/comfyui-edit-mask"
-    "https://github.com/griptape-ai/ComfyUI-Griptape"
-    "https://github.com/Fannovel16/comfyui_controlnet_aux"
-    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+#    "https://github.com/ltdrdata/ComfyUI-Manager"
+#    "https://github.com/cubiq/ComfyUI_essentials"
+#    "https://github.com/storyicon/comfyui_segment_anything"
+#    "https://github.com/neverbiasu/ComfyUI-SAM2"
+#    "https://github.com/tooldigital/ComfyUI-Yolo-Cropper"
+#    "https://github.com/jags111/efficiency-nodes-comfyui"
+#    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+#    "https://github.com/kijai/ComfyUI-IC-Light"
+#    "https://github.com/audioscavenger/save-image-extended-comfyui"
+#    "https://github.com/shadowcz007/comfyui-edit-mask"
+#    "https://github.com/griptape-ai/ComfyUI-Griptape"
+#    "https://github.com/Fannovel16/comfyui_controlnet_aux"
+#    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
 )
 
 CHECKPOINT_MODELS=(
