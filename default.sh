@@ -33,6 +33,7 @@ NODES=(
 #    "https://github.com/griptape-ai/ComfyUI-Griptape"
 #    "https://github.com/Fannovel16/comfyui_controlnet_aux"
 #    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+    "https://github.com/yuvraj108c/ComfyUI-Dwpose-Tensorrt"
 )
 
 CHECKPOINT_MODELS=(
