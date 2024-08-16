@@ -36,6 +36,7 @@ NODES=(
     "https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg"
     "https://github.com/Nourepide/ComfyUI-Allor"
     "https://github.com/Gourieff/comfyui-reactor-node"
+    "https://github.com/ceruleandeep/ComfyUI-LLaVA-Captioner"
 )
 
 CHECKPOINT_MODELS=(
