@@ -20,7 +20,7 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/storyicon/comfyui_segment_anything"
+#    "https://github.com/storyicon/comfyui_segment_anything"
 #    "https://github.com/ltdrdata/ComfyUI-Manager"
 #    "https://github.com/cubiq/ComfyUI_essentials"
 #    "https://github.com/neverbiasu/ComfyUI-SAM2"
@@ -34,6 +34,8 @@ NODES=(
 #    "https://github.com/Fannovel16/comfyui_controlnet_aux"
 #    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
 #    "https://github.com/yuvraj108c/ComfyUI-Dwpose-Tensorrt"
+    "https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg"
+    "https://github.com/Nourepide/ComfyUI-Allor"
 )
 
 CHECKPOINT_MODELS=(
