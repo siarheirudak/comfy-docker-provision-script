@@ -40,6 +40,7 @@ NODES=(
 #    "https://github.com/ceruleandeep/ComfyUI-LLaVA-Captioner"
     "https://github.com/crystian/ComfyUI-Crystools"
     "https://github.com/kijai/ComfyUI-KJNodes"
+    "https://github.com/chrisgoringe/cg-use-everywhere"
 )
 
 CHECKPOINT_MODELS=(
