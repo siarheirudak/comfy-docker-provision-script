@@ -34,13 +34,15 @@ NODES=(
 #    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
 #    "https://github.com/yuvraj108c/ComfyUI-Dwpose-Tensorrt"
 #    "https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg"
-#    "https://github.com/Gourieff/comfyui-reactor-node"
 #    "https://github.com/ceruleandeep/ComfyUI-LLaVA-Captioner"
-#    "https://github.com/crystian/ComfyUI-Crystools"
 #    "https://github.com/kijai/ComfyUI-KJNodes"
 #    "https://github.com/chrisgoringe/cg-use-everywhere"
+    "https://github.com/Gourieff/comfyui-reactor-node"
+    "https://github.com/crystian/ComfyUI-Crystools"
     "https://github.com/Nourepide/ComfyUI-Allor"
     "https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/wTechArtist/ComfyUI-CustomNodes"
 )
 
 CHECKPOINT_MODELS=(
