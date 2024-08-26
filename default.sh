@@ -43,6 +43,8 @@ NODES=(
     "https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     "https://github.com/wTechArtist/ComfyUI-CustomNodes"
+    "https://github.com/TripleHeadedMonkey/ComfyUI_MileHighStyler"
+    "https://github.com/hinablue/ComfyUI_3dPoseEditor"
 )
 
 CHECKPOINT_MODELS=(
