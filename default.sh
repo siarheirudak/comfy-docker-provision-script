@@ -45,6 +45,7 @@ NODES=(
     "https://github.com/wTechArtist/ComfyUI-CustomNodes"
     "https://github.com/TripleHeadedMonkey/ComfyUI_MileHighStyler"
     "https://github.com/hinablue/ComfyUI_3dPoseEditor"
+    "https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait"
 )
 
 CHECKPOINT_MODELS=(
