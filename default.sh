@@ -19,7 +19,7 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-#    "https://github.com/storyicon/comfyui_segment_anything"
+    "https://github.com/storyicon/comfyui_segment_anything"
 #    "https://github.com/ltdrdata/ComfyUI-Manager"
 #    "https://github.com/cubiq/ComfyUI_essentials"
 #    "https://github.com/neverbiasu/ComfyUI-SAM2"
@@ -46,6 +46,7 @@ NODES=(
     "https://github.com/TripleHeadedMonkey/ComfyUI_MileHighStyler"
     "https://github.com/hinablue/ComfyUI_3dPoseEditor"
     "https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait"
+    "https://github.com/palant/image-resize-comfyui"
 )
 
 CHECKPOINT_MODELS=(
