@@ -23,17 +23,17 @@ NODES=(
 #    "https://github.com/ltdrdata/ComfyUI-Manager"
 #    "https://github.com/cubiq/ComfyUI_essentials"
 #    "https://github.com/neverbiasu/ComfyUI-SAM2"
-#    "https://github.com/tooldigital/ComfyUI-Yolo-Cropper"
+    "https://github.com/tooldigital/ComfyUI-Yolo-Cropper"
 #    "https://github.com/jags111/efficiency-nodes-comfyui"
 #    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
 #    "https://github.com/kijai/ComfyUI-IC-Light"
 #    "https://github.com/audioscavenger/save-image-extended-comfyui"
 #    "https://github.com/shadowcz007/comfyui-edit-mask"
 #    "https://github.com/griptape-ai/ComfyUI-Griptape"
-#    "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
 #    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
 #    "https://github.com/yuvraj108c/ComfyUI-Dwpose-Tensorrt"
-#    "https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg"
+    "https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg"
 #    "https://github.com/ceruleandeep/ComfyUI-LLaVA-Captioner"
 #    "https://github.com/kijai/ComfyUI-KJNodes"
 #    "https://github.com/chrisgoringe/cg-use-everywhere"
@@ -210,6 +210,13 @@ function provisioning_print_header() {
 function provisioning_print_end() {
     printf "\nProvisioning complete:  Web UI will start now\n\n"
 }
+
+#function provisioning_run_local_scripts() {
+#    printf "\nRunning local scripts\n\n"
+#    if [[ -e /workspace/ComfyUI/custom_nodes/ComfyUI-Allor/install.sh ]]; then
+#        /workspace/ComfyUI/custom_nodes/ComfyUI-Allor/install.sh
+#    fi
+#}
 
 function provisioning_has_valid_hf_token() {
     [[ -n "$HF_TOKEN" ]] || return 1
