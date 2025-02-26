@@ -19,11 +19,11 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    # "https://github.com/storyicon/comfyui_segment_anything"
 #    "https://github.com/ltdrdata/ComfyUI-Manager"
 #    "https://github.com/cubiq/ComfyUI_essentials"
 #    "https://github.com/neverbiasu/ComfyUI-SAM2"
     "https://github.com/tooldigital/ComfyUI-Yolo-Cropper"
+    "https://github.com/storyicon/comfyui_segment_anything"
 #    "https://github.com/jags111/efficiency-nodes-comfyui"
 #    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
 #    "https://github.com/kijai/ComfyUI-IC-Light"
